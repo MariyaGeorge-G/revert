@@ -1,6 +1,10 @@
 
 first line added
 
+<<<<<<< HEAD
 second line added again 
 
 third line added 
+=======
+second line added again 
+>>>>>>> parent of 1d9320a (third commit added)
