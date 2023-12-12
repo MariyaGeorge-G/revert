@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 first line added
 
 second line added again 
 
 third line added 
+=======
+first line added 
+>>>>>>> parent of 6b2d58c (second commit added again)
